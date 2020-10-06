@@ -1,7 +1,7 @@
 # setup
 
 the config files are located in the config folder
-here you can set everything channels messages
+here you can set everything from channels messages
 and even the language
 
 ### config 
