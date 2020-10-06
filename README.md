@@ -1,10 +1,10 @@
 # setup
 
-the config file is located in the config file
+the config files are located in the config folder
 here you can set everything channels messages
-and even language
+and even the language
 
-## config 
+### config 
 
 the config file is named setting.json instead of config 
 
